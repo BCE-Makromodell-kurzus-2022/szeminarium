@@ -1,0 +1,2 @@
+# szeminarium
+Szemináriumi anyagok
